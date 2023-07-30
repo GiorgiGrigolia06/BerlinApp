@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_image_height">128dp</dimen>
+    <dimen name="card_image_width">128dp</dimen>
+    <dimen name="card_corner_radius">20dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="space_between_image_and_text_in_card">20dp</dimen>
+    <dimen name="content_line_height">28dp</dimen>
+    <dimen name="content_image_clip">10dp</dimen>
+    <dimen name="content_image_size">300dp</dimen>
+    <dimen name="navigation_rail_bottom_padding">10dp</dimen>
+    <dimen name="row_font_size_of_content_compact">14dp</dimen>
+    <dimen name="row_font_size_of_content_medium">20dp</dimen>
+    <dimen name="navigation_font_size">12dp</dimen>
+    <dimen name="list_only_content_list_padding">30dp</dimen>
+    <dimen name="max_width_of_text_in_list_item">200dp</dimen>
+    <dimen name="lazy_column_padding_vertical">40dp</dimen>
+    <dimen name="lazy_column_padding_horizontal">16dp</dimen>
+    <dimen name="foldable_size_navigation_rail_top_padding">20dp</dimen>
+    <dimen name="large_screen_lazy_column_padding_vertical">20dp</dimen>
+    <dimen name="large_screen_lazy_column_padding_horizontal">30dp</dimen>
+    <dimen name="permanent_drawer_sheet_width">140dp</dimen>
+    <dimen name="permanent_drawer_sheet_top_padding">20dp</dimen>
+</resources>

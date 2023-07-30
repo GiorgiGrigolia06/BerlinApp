@@ -1,0 +1,356 @@
+<resources>
+    <string name="app_name">Berlin App</string>
+    <string name="berlin">Berlin</string>
+
+    <!--CATEGORIES - TITLES-->
+    <string name="cool_places_title">Cool Places</string>
+    <string name="museums_title">Museums</string>
+    <string name="bars_title">Bars</string>
+    <string name="clubs_title">Clubs</string>
+    <string name="food_spots_title">Food</string>
+
+    <!--COOL PLACES RECOMMENDATIONS - TITLES-->
+    <string name="kreuzberg_title">Kreuzberg</string>
+    <string name="raw_temple_title">RAW Temple</string>
+    <string name="hackesche_hofe_title">Hackesche Hofe</string>
+    <string name="prenzlauer_berg_title">Prenzlauer Berg</string>
+    <string name="mauerpark_title">Mauerpark</string>
+
+    <!--MUSEUMS RECOMMENDATIONS - TITLES-->
+    <string name="hamburger_bahnhof_title">Hamburger Bahnhof</string>
+    <string name="puppentheater_museum_title">Puppentheater Museum</string>
+    <string name="juedisches_museum_berlin_title">Jüdisches Museum Berlin</string>
+    <string name="east_side_gallery_title">East Side Gallery</string>
+    <string name="neues_museum_title">Neues Museum</string>
+
+    <!--BARS RECOMMENDATIONS - TITLES-->
+    <string name="barbie_deinhoffs_title">Barbie Deinhoff\'s</string>
+    <string name="geist_im_glas_title">Geist im Glas</string>
+    <string name="ae_title">Ä</string>
+    <string name="dschungel_bar_title">Dschungel Bar</string>
+    <string name="klunkerkranich_title">Klunkerkranich</string>
+
+    <!--CLUBS RECOMMENDATIONS - TITLES-->
+    <string name="about_blank_title">://about blank</string>
+    <string name="tresor_title">Tresor</string>
+    <string name="kitkat_title">Kitkat</string>
+    <string name="berghain_title">Berghain</string>
+    <string name="club_der_visionaere_title">Club der Visionaere</string>
+
+    <!--FOOD SPOTS RECOMMENDATIONS - TITLES-->
+    <string name="burgermeister_title">Burgermeister</string>
+    <string name="moksa_kitchen_title">Moksa Kitchen</string>
+    <string name="standard_serious_pizza_title">Standard Serious Pizza</string>
+    <string name="konnopkes_title">Konnopke\'s</string>
+    <string name="fine_bagels_title">Fine Bagels</string>
+
+    <!--COOL PLACES RECOMMENDATIONS - CONTENT-->
+    <string name="kreuzberg_content">
+        The most alternative districts of all and one of the best known
+        neighbourhoods of Berlin. It\'s easy to distinguish the moment when you
+        step into Kreuzberg as suddenly all you see around are quirky shops,
+        small restaurants, cosy cafes and funky looking people.\n\n
+        On top of that there\'s an overwhelming number of the amazing street art
+        on every step, including some of the most famous Berlin pieces.
+        There\'re lots of nightclubs, pubs, cafes,
+        little shops and small restaurants – surely Kreuzberg is a place to be!
+    </string>
+
+    <string name="raw_temple_content">
+        Located close to Warschauer Strasse S-Bahn and U-Bahn station,
+        this former railway maintenance yard now serves as an alternative culture
+        center. Railway tracks are still on the ground, some of the old buildings
+        still stand – this industrial scenery is a perfect setting for
+        a place like this.
+        \n\nRAW Temple is where numerous community
+        projects take place. From art exhibitions and rock concerts to
+        open-air cinema or workshops for young and adults – everything can
+        be found there! On Sunday the place turns into a big flea market.
+        Sadly rumors say shopping center is going to be built
+        in this location so make sure to visit before capitalism destroys
+        this raw and cultural playground!
+    </string>
+
+    <string name="hackesche_hofe_content">
+        Most people go to Hackesche Hofe to admire the
+        beautiful art-deco building (it is indeed spectacular).
+        But not many know that the next entrance leads to the courtyard
+        that is a paradise for every street art lover. The place
+        is literally covered in various forms of street art – graffiti,
+        posters, murals, stickers, you name it! Located not
+        far away from Alexanderplatz, Hackesche Hofe is highly recommended!
+    </string>
+
+    <string name="prenzlauer_berg_content">
+        Former East Berlin area that always has been in
+        the opposition, now is one of the most desired
+        places to live in the capital of Germany.
+        And you can\'t blame all these people dreaming of being residents
+        of Prenzlauer Berg. Packed with cozy cafes and small
+        boutiques and full of beautiful architecture it surely must be
+        a wonderful place to live in.
+        \n\nPrenzlauer Berg makes a perfect
+        alternative to the famous landmarks of the city. After the busy
+        sightseeing day it\'s worth stopping in that district for a cup of coffee,
+        just to enjoy the easy-going lifestyle Berlin is so famous for.
+    </string>
+
+    <string name="mauerpark_content">
+        At the edge of Prenzlauer Berg, where te Berlin Wall
+        and its Death Strip used to be, the most hip of city\'s parks can
+        be found. It\'s especially worth to visit Mauerpark on
+        Sunday as that\'s when the whole magic happens – one of
+        the biggest flea market, public karaoke singing or, when
+        the weather is nice, a massive barbecue!
+        It seems like only cool, trendy and young Berliners
+        visit the park to chill out with friends and so it\'s
+        worth visiting the place just for people watching!
+    </string>
+
+    <!--MUSEUMS RECOMMENDATIONS - CONTENT-->
+    <string name="hamburger_bahnhof_content">
+        Berlin\'s foremost contemporary art museum,
+        Hamburger Bahnhof is the name on the tip of everyone\'s tongue.
+        A rich collection of works from Beuys, Twombly, and Warhol is
+        complemented by travelling exhibitions and temporary showcases
+        of cutting-edge talent and household names.\n\n
+
+        The space itself is not to be missed: the museum
+        takes its name from the former Berlin–Hamburg rail station,
+        and the echoes of grandeur can still be heard
+        in the airy halls under high ceilings.
+    </string>
+
+    <string name="puppentheater_museum_content">
+        Equal parts creepy and cute, the Puppentheater
+        Museum in Neukölln is home to more than 300 puppets and marionettes.\n\n
+
+        Their cheerful and cherubic faces are the thing of
+        nightmares for some, but others might be interested in the
+        dolls\' personal histories and cultural heritage.
+        For those who dare, readings are scheduled
+        regularly for both children and adults.
+    </string>
+
+    <string name="juedisches_museum_berlin_content">
+        Dive deep into the history of Jewish
+        people at the world-famous Jewish Museum.
+        It\'s a vibrant celebration of Jewish history and
+        culture housed in a dazzling building designed by Daniel Libeskind.\n\n
+
+        You could easily spend a few hours
+        here: the exhibitions are extensively
+        researched and thoughtfully presented.
+        Fully untangling stories of the migration,
+        diversity and persecution of Jews in Germany may take
+        some time but is well worth the effort.
+    </string>
+
+    <string name="east_side_gallery_content">
+        What was once the Berlin Wall is now a 1.3km
+        gallery remembering the city divided. Located
+        just off Warschauer Strasse on the border of Friedrichshain
+        and Kreuzberg, the East Side Gallery is flush with tourists looking
+        to experience the size and stature of the wall that split the city in two.\n\n
+
+        The most iconic murals remain on the walls,
+        so grab a beer and take a walk through Berlin\'s
+        turbulent recent history – it\'s a popular spot for a
+        summertime beer on the riverbanks, so you won’t be alone.
+    </string>
+
+    <string name="neues_museum_content">
+        It\'s hard to argue with the impressive collection
+        of ancient artefacts housed at Berlin\'s Neues Museum.
+        The building itself is a work of art:
+        extensive damage incurred during the Second World
+        War left the structure crumbling, but an in-depth
+        architectural revival led to the museum reopening in 2009 to much acclaim.\n\n
+
+        The Neues Museum hosts
+        several immediately recognisable pieces.
+        The standout? Don\'t miss the original bust of Nefertiti.
+    </string>
+
+    <!--BARS RECOMMENDATIONS - CONTENT-->
+    <string name="barbie_deinhoffs_content">
+        A quintessentially "Berlin" watering hole,
+        drenched in pink neon light and walls emblazoned with
+        years of graffiti. Frequented by the city\'s most colourful
+        characters – the beers are cheap, the atmosphere fun, and it\'s LGBT friendly.
+        \n\nThe aesthetic is pitched somewhere between John Waters hyper-kitsch
+        and retro-futurism with its gaudy pink walls and shabby furnishings.
+        It\'s a mixed LGBT crowd, with statuesque drag queens rubbing shoulders
+        with butch, tattooed girls. Tuesdays is an all-night happy
+        hour for drinkers on a budget.
+    </string>
+
+    <string name="geist_im_glas_content">
+        A really beautiful bar with great
+        attention to detail in everything they do. The
+        staff are smiley, the decor is gorgeous and they
+        serve the best cocktails in Berlin that won\'t blow your
+        backpacker\'s budget. The best bit? These kind
+        souls will even help you cure your hangover the
+        next day with MEGA brunches and legendary pancakes.
+    </string>
+
+    <string name="ae_content">
+        This bar, simply called "Ä", is
+        on one of Berlin\'s best nightlife streets.
+        Weserstrasse (in Neukölln) leads from Hermannplatz
+        to the south, and along the road are a scattering of new bars,
+        small clubs, and trendy cafes. The bar Ä offers nights of live
+        music, events, and meetups. The social bar is casual and has two
+        large rooms (one smoking, one non-smoking) which provide a great
+        atmosphere for a relaxed but fun night out. Occasional DJs and a
+        kicker table are just the cherry on top.
+    </string>
+
+    <string name="dschungel_bar_content">
+        Unless you\'re a German speaker, you
+        would not expect much from the unassuming
+        entrance to Dschungel Bar aka "Jungle Bar".
+        But once inside, you\'ll be transported to the wilderness
+        at the heart of Neukölln. With an abundance of greenery and actual
+        real-life frogs, this is definitely one of the weirdest bars in Berlin.
+    </string>
+
+    <string name="klunkerkranich_content">
+        Located on top of a multi-story car park,
+        Klunkerkranich is the best roof-top bar in Berlin by a mile.
+        This is where the city\'s beautiful young things hang out on
+        hot summer days, but don\'t worry, there\'s nothing pretentious
+        about this saucy spot.
+        \n\nThe bar and urban gardening project has a
+        strong community vibe, and the very reasonable 3
+        euros entry fee goes towards keeping it green and
+        providing excellent live music for lazy Sunday afternoons.
+        If you\'re looking for the best place to watch the sunset in
+        Berlin, you\'ve just found it.
+    </string>
+
+
+    <!--CLUBS RECOMMENDATIONS - CONTENT-->
+    <string name="about_blank_content">
+        ://about blank (no this is not a typo!) is a
+        formerly illegal, multi-room club by Ostkreuz
+        S-Bahnhof in Friedrichshain. Despite the glitzy disco ball,
+        about blank is anything but glamorous!
+        \n\nIt\'s a short walk from Salon Zur Wilde Renate, and like that club,
+        it\'s a lightly renovated, re-purposed building with
+        seemingly endless nooks and crannies to explore.
+        There are two main dance floors inside, and in the
+        summer DJs play out in the garden (which is open in the
+        winter too, with a cosy bonfire).
+    </string>
+
+    <string name="tresor_content">
+        The new incarnation of an old techno institution,
+        Tresor Club is set in an abandoned power plant spanning
+        22,000m² on Köpenicker Strasse in Berlin\'s
+        Mitte neighbourhood. It\'s a labyrinth of concrete passages
+        mazing into basement vaults and industrial halls.
+        \n\nJust when you think you\'ve discovered all of Tresor\'s secrets,
+        you realise you haven\'t! Inside, there are three separate but
+        connected floors: Globus and +4Bar for house and
+        experimental electronic music, and, of course, the famed
+        vault which, reached through a 30m long tunnel,
+        uncompromisingly presents the Tresor sound.
+    </string>
+
+    <string name="kitkat_content">
+        Nights at KitKatClub are always somewhat
+        erotic and subversive - this is Berlin, after all,
+        and club nights aren\'t the sparkly-mini-dress-and-Top-40
+        affairs they are in many other cities.
+        \n\nAlthough this is technically a sex club, it\'s not the sleazy affair
+        newcomers might expect. If you just want to dance to the
+        famous techno and house beats, that\'s totally fine - it will
+        feel like you\'re with a ton of friends and everyone just happens
+        to be in sexy underwear. Off the dance floor, it\'s up to
+        guests to participate as much - or as little - as they
+        want in any other activities; consent here is
+        strictly emphasized, and there\'s no pressure.
+    </string>
+
+    <string name="berghain_content">
+        Sitting in a dusty lot on the border of
+        Kreuzberg and Friedrichshain, Berghain is widely
+        considered one of the best clubs in Berlin, if not the world!
+        \n\nIt has three main dance floors: Berghain, a dark main room where
+        most DJs play techno, and Panorama Bar, an upstairs space that\'s
+        more focused on house. Then there\'s Säule, a new experimental floor.
+        There\'s also a men\'s-only club on the first level called Lab.Oratory,
+        and a smaller space known for live performances with a
+        separate entrance called Kantine am Berghain. Let the
+        good times Berghain!
+    </string>
+
+    <string name="club_der_visionaere_content">
+        Club der Visionaere is a rustic and
+        understated spot between Kreuzberg and
+        Treptower Park. It sits on a canal in a small
+        brick building and could be considered more of a bar or
+        after-hours venue than a nightclub. Entry is
+        usually five euro or sometimes free. The dance
+        floor holds just 50 people, with most attendees spending
+        their time hanging out on the wooden deck outside and
+        enjoying the views of the river.
+    </string>
+
+    <!--FOOD SPOTS RECOMMENDATIONS - CONTENT-->
+    <string name="burgermeister_content">
+        There are plenty of great burgers found in
+        Berlin, but none are quite as iconic as Burgermeister\'s.
+        This joint first opened in a former public toilet outside the
+        Schlesisches Tor U-Bahn station and, as a testament to
+        its success, has now expanded to three locations.
+        The menu is refreshingly simple, the cheesy fries as
+        comforting as comfort food gets, and the mouth-watering
+        vegan burger nothing like your token veggie option.
+    </string>
+
+    <string name="moksa_kitchen_content">
+        Moksa is not one of those Indian
+        restaurants exclusively serving traditional Indian food.
+        Situated in Neukölln, this hip spot offers tempting fast
+        food dishes including the guest\'s favorite – tandoori
+        chicken tikka. If you\'re trying to find the best South Asian
+        cookery in the city, reflecting both authenticity and creativity,
+        Moksa surely won\'t let you down. This place is almost a Berlin institution!
+    </string>
+
+    <string name="standard_serious_pizza_content">
+        Neapolitan-style pizza restaurants in Berlin
+        aren\'t rare, but we\'re not complaining.
+        Berlin\'s pizza renaissance has upped the quality of the pies
+        by huge margins, and Standard in Prenzlauer Berg is a crowd-pleasing
+        favourite. You can\'t go wrong with the Margherita, with its fior di
+        latte mozzarella and San Marzano tomatoes, or the more out-there house
+        white pizza featuring smoked cheese, semi-dried tomatoes,
+        aubergine and olive pesto.
+    </string>
+
+    <string name="konnopkes_content">
+        This venerable sausage stand has
+        been under the same family management since 1930.
+        After coming up with a secret recipe for ketchup
+        (which was not available after the Wall was built),
+        it was the first place to offer currywurst in
+        East Berlin and still serves the most famous – and
+        quite possibly the best – version in the city. Expect queues.
+    </string>
+
+    <string name="fine_bagels_content">
+        Germany isn\'t exactly known for
+        its bagels, but this Friedrichshain bagel
+        shop-cum-café-cum-bookstore does a fantastic
+        job bringing NY-style bagels and Jewish-American
+        bakery sweets to Berlin.
+        \n\nIt\'s hard to go wrong with anything on the menu here, and the espresso by Bonanza
+        Coffee is the perfect complement. Settle in for an hour
+        or two if the weather\'s bad, or pick up some forgotten
+        holiday reading material at the Shakespeare and Sons bookstore.
+    </string>
+</resources>
