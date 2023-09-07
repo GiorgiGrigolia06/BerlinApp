@@ -12,38 +12,3 @@ One of the project's key strengths is its full responsiveness, seamlessly adapti
     <img src="3.png" alt="Categories Page 2" width="220" height="460">&nbsp;&nbsp;
     <img src="4.png" alt="Results Page 2" width="220" height="460">
 </p>
-
-
-<style>
-    .image-row {
-        display: flex;
-        overflow-x: auto;
-        white-space: nowrap;
-    }
-
-    .image {
-        flex: 0 0 auto;
-        margin-right: 10px; /* Add some spacing between images */
-    }
-
-    /* Media query to switch to a column layout on small screens */
-    @media (max-width: 768px) {
-        .image-row {
-            flex-direction: column;
-            overflow-x: hidden; /* Hide horizontal scrollbar */
-            white-space: normal; /* Allow text wrapping */
-        }
-
-        .image {
-            margin-right: 0; /* Remove spacing between images in column layout */
-            margin-bottom: 10px; /* Add some spacing between images in column layout */
-        }
-    }
-</style>
-
-<div class="image-row">
-    <img src="1.png" alt="Categories Page 1" width="220" height="460" class="image">
-    <img src="2.png" alt="Results Page 1" width="220" height="460" class="image">
-    <img src="3.png" alt="Categories Page 2" width="220" height="460" class="image">
-    <img src="4.png" alt="Results Page 2" width="220" height="460" class="image">
-</div>
