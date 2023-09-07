@@ -5,7 +5,7 @@ Developing the app took approximately one week, and the most challenging aspect 
 
 One of the project's key strengths is its full responsiveness, seamlessly adapting to various devices, including mobile screens, foldables, and tablets.
 
-## Screenshots
+## Preview
 <p align="left">
     <img src="1.png" alt="Categories Page 1" width="220" height="460">&nbsp;&nbsp;
     <img src="2.png" alt="Results Page 1" width="220" height="460">&nbsp;&nbsp;
